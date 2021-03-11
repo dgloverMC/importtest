@@ -21,22 +21,26 @@
       Source="file:///C:/Users/dglover/Documents/My Projects/testticket6/testticket6.flprj"
       AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/testticket6/testticket6.flprj" />
   </Files>
-  <ExcludedFiles />
+  <ExcludedFiles>
+    <Url
+      Source="../../Content/NewFolder/dddd.htm"
+      AbsoluteSource="file:///C:/Users/mspinks/Documents/My Projects/Import Conflict Test/Content/NewFolder/dddd.htm" />
+  </ExcludedFiles>
   <CollectedSourceFiles>
     <Url
-      Source="../../../../../Documents/My Projects/testticket6/Content/NewFolder/dddd.htm"
-      AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/testticket6/Content/NewFolder/dddd.htm" />
+      Source="../../../testticket6/Content/NewFolder/dddd.htm"
+      AbsoluteSource="file:///C:/Users/mspinks/Documents/My Projects/testticket6/Content/NewFolder/dddd.htm" />
     <Url
-      Source="../../../../../Documents/My Projects/testticket6/Content/NewFolder/dddd1.htm"
-      AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/testticket6/Content/NewFolder/dddd1.htm" />
+      Source="../../../testticket6/Content/NewFolder/dddd1.htm"
+      AbsoluteSource="file:///C:/Users/mspinks/Documents/My Projects/testticket6/Content/NewFolder/dddd1.htm" />
   </CollectedSourceFiles>
   <SkippedSourceFiles>
     <Url
-      Source="../../../../../Documents/My Projects/testticket6/Content/dddd.htm"
-      AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/testticket6/Content/dddd.htm" />
+      Source="../../../testticket6/Content/dddd.htm"
+      AbsoluteSource="file:///C:/Users/mspinks/Documents/My Projects/testticket6/Content/dddd.htm" />
     <Url
-      Source="../../../../../Documents/My Projects/testticket6/Content/Topic.htm"
-      AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/testticket6/Content/Topic.htm" />
+      Source="../../../testticket6/Content/Topic.htm"
+      AbsoluteSource="file:///C:/Users/mspinks/Documents/My Projects/testticket6/Content/Topic.htm" />
   </SkippedSourceFiles>
   <GeneratedFiles>
     <Url
