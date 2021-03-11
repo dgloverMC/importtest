@@ -24,26 +24,26 @@
   <ExcludedFiles />
   <CollectedSourceFiles>
     <Url
-      Source="../../../Documents/My Projects/testticket6/Content/NewFolder/dddd.htm"
+      Source="../../../../../Documents/My Projects/testticket6/Content/NewFolder/dddd.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/testticket6/Content/NewFolder/dddd.htm" />
     <Url
-      Source="../../../Documents/My Projects/testticket6/Content/NewFolder/dddd1.htm"
+      Source="../../../../../Documents/My Projects/testticket6/Content/NewFolder/dddd1.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/testticket6/Content/NewFolder/dddd1.htm" />
   </CollectedSourceFiles>
   <SkippedSourceFiles>
     <Url
-      Source="../../../Documents/My Projects/testticket6/Content/dddd.htm"
+      Source="../../../../../Documents/My Projects/testticket6/Content/dddd.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/testticket6/Content/dddd.htm" />
     <Url
-      Source="../../../Documents/My Projects/testticket6/Content/Topic.htm"
+      Source="../../../../../Documents/My Projects/testticket6/Content/Topic.htm"
       AbsoluteSource="file:///C:/Users/dglover/Documents/My Projects/testticket6/Content/Topic.htm" />
   </SkippedSourceFiles>
   <GeneratedFiles>
     <Url
-      Source="Content/NewFolder/dddd.htm"
+      Source="../../Content/NewFolder/dddd.htm"
       TimeStamp="1/28/2021 1:33:06 PM" />
     <Url
-      Source="Content/NewFolder/dddd1.htm"
+      Source="../../Content/NewFolder/dddd1.htm"
       TimeStamp="2/10/2021 11:18:27 AM" />
   </GeneratedFiles>
 </CatapultProject>
